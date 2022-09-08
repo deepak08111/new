@@ -1,0 +1,4 @@
+empid,name,gender,country
+1001,klr,male,india
+1002,lrs,female,india
+1003,rbs,male,india
